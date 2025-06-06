@@ -52,6 +52,7 @@ this is a simple implementation of blockchain using python with proof of work co
     print(bc.is_valid())
 
 #Example output:
+
     Mining the block 1
     time taken to create hash : 0.0347 seconds
     final nonce value is : 354 and the hash : 00a4f8....
